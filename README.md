@@ -7,13 +7,21 @@ Q1)Print multiplication table using for loop.
 
 Q2)
                                          *
+                                         
                                         ***
+                                        
                                        *****
+                                       
                                       *******
+                                      
                                      *********
+                                     
                                       *******
+                                      
                                        *****
+                                       
                                         ***
+                                        
                                          *
                                          
 ![image](https://github.com/user-attachments/assets/18beefd5-8b2a-4002-9bca-4fed78c48ac6)
