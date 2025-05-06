@@ -6,6 +6,7 @@ Q1)Print multiplication table using for loop.
 
 
 Q2)
+
                                          *
                                          
                                         ***
